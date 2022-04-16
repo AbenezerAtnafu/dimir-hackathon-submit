@@ -1,0 +1,9 @@
+.courseCardSection {
+  background-color: #f3f3f3;
+}
+
+.courseSectionButton {
+  box-shadow: 4px 4px 14px 0 rgb(0 0 0 / 20%);
+  background-color: #1a27c9;
+  color: #fff;
+}

@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&family=Space+Mono&display=swap");
+.courseSection {
+  background-color: #f3f3f3;
+}
+
+.courseSectionTitle {
+  font-family: "Space Mono", monospace, sans-serif;
+}

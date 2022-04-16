@@ -1,0 +1,27 @@
+.header {
+  /* font-size: 7rem; */
+  line-height: 7rem;
+  text-align: start;
+  font-weight: 600;
+}
+
+.sub-header {
+  color: #ced2d6;
+}
+
+.shop-courses-button {
+  background-color: #f7e05f;
+  color: #322f1c;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.125rem;
+}
+
+@media (min-width: 768px) {
+  .video-height {
+    height: 32rem;
+  }
+}
+.video-height {
+  height: 44rem;
+}

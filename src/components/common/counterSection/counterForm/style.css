@@ -1,0 +1,10 @@
+.counterFormInput:focus {
+  border-color: transparent !important;
+  outline: none;
+  border-bottom: 1px solid white !important;
+}
+
+.submitButton {
+  background-color: #f7e05f;
+  /* font-family: "Space Mono", monospace, sans-serif; */
+}
